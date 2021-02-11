@@ -17,5 +17,6 @@ Postresql
 ```
 ### Front
 ```
-Thymeleaf (but now I'm refactoring into Angular)
+Angular
+https://github.com/stomczuk/dictionaryAppFront
 ```
